@@ -1,0 +1,6 @@
+
+{
+  "name": "Openride Waitlist",
+  "description": "A premium waitlist landing page for Openride, a community-driven ride-sharing platform for office commuters. Features 3D animations, smart matching previews, and a sleek modern UI.",
+  "requestFramePermissions": ["geolocation"]
+}
